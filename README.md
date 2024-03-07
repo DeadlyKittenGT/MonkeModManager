@@ -1,2 +1,1 @@
-# MonkeModManager
-Mod Installer for the PC version of Gorilla Tag.
+Monke Mod Manager
